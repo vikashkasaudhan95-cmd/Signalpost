@@ -91,16 +91,25 @@ UI
 Dataset Snapshot
 
 ╔══════════════════════════════════════╗
-║          CompanyInfoAgent            ║
+║          CompanyInfoAgent    
+║
 ╠══════════════════════════════════════╣
-║ Company Profiles              1,000 ║
-║ Unique Org Numbers            1,000 ║
-║ Duplicate Org Numbers             0 ║
-║ Source URLs                   1,000 ║
-║ Founded Dates                   806 ║
-║ Address Fields                1,000 ║
-║ Array Addresses                 960 ║
-║ String Addresses                 40 ║
+║ Company Profiles              1,000
+║
+║ Unique Org Numbers            1,000
+║
+║ Duplicate Org Numbers             0
+║
+║ Source URLs                   1,000
+║
+║ Founded Dates                   806
+║
+║ Address Fields                1,000
+║
+║ Array Addresses                 960 
+║
+║ String Addresses                 40 
+║
 ╚══════════════════════════════════════╝
   
 
