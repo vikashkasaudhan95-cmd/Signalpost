@@ -94,21 +94,29 @@ Dataset Snapshot
 ║          CompanyInfoAgent    
 ║
 ╠══════════════════════════════════════╣
-║ Company Profiles              1,000
 ║
-║ Unique Org Numbers            1,000
+  Company Profiles              1,000
 ║
-║ Duplicate Org Numbers             0
 ║
-║ Source URLs                   1,000
+  Unique Org Numbers            1,000
 ║
-║ Founded Dates                   806
+║  
+  Duplicate Org Numbers             0
 ║
-║ Address Fields                1,000
+║ 
+  Source URLs                   1,000
 ║
-║ Array Addresses                 960 
+║ 
+  Founded Dates                   806
 ║
-║ String Addresses                 40 
+║ 
+  Address Fields                1,000
+║
+║ 
+  Array Addresses                 960 
+║
+║ 
+  String Addresses                 40 
 ║
 ╚══════════════════════════════════════╝
   
